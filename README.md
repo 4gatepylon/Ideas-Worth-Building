@@ -52,4 +52,3 @@
 - Neural Network to decision tree interpretbility algorithm
 - PNG to Ascii Art and vice versa
 - Contrastive learning with random images (or maybe useful for energy models), also, at different levels of abstraction
-- 
