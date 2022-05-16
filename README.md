@@ -18,6 +18,7 @@
 - Machine learning for math using multiple representations when there is less data (decoupling syntax from semantics)
 - ML for Crypto Challenges (CTF competitions, mainly)
 - ML to solve Leetcode
+- ML to generate Leetcode problems with solutions
 - Fully functioning neural network in Minecraft
 - Card against X where X is your school or organization
 - Evolutionary Algorithm of ML Algorithms based on papers' algorithms' success over time and maybe some other "fitness" criterion
