@@ -6,6 +6,7 @@
 - Poker bot
 
 # Stream of Consciousness
+- 2E Music Box Classifier, but it actually works
 - Poker Mod Creator
 - Perciever Architecture for Image Scanning
 - Senior week (MIT) Event Matcher (generally, constraint solvers for people to be able to coordinate large events when people have different preferences)
