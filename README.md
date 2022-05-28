@@ -6,6 +6,7 @@
 - Poker bot
 
 # Stream of Consciousness
+- Some sort of community-based life-coaching without needing certified therapists to help people (especially in small businesses or schools where it might be hard to get a service like this) emotional support when they need it (etc)
 - 2E Music Box Classifier, but it actually works
 - Poker Mod Creator
 - Perciever Architecture for Image Scanning
