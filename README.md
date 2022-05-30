@@ -4,6 +4,7 @@
 - Anki (flashcards) with images
 - VAE Synthesizer
 - Poker bot
+- Sync my bank account transaction information with my budgeting system on google sheets (or something similar)
 
 # Stream of Consciousness
 - Something to bypass gogoinflight
