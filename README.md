@@ -3,10 +3,11 @@
 - Housing Scraper: give me a list of available properties to contact in an area using Craigslist, FB Marketplace, etc...
 - Anki (flashcards) with images
 - VAE Synthesizer
-- Poker bot
 - Sync my bank account transaction information with my budgeting system on google sheets (or something similar)
+- Remake `outline.com`: basically get webpages from news sites from either different IPs or without cookies or whatever (is necessary) to avoid the paywall
 
 # Stream of Consciousness
+- Poker bot
 - Something to bypass gogoinflight
 - Some sort of community-based life-coaching without needing certified therapists to help people (especially in small businesses or schools where it might be hard to get a service like this) emotional support when they need it (etc)
 - 2E Music Box Classifier, but it actually works
