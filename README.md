@@ -5,9 +5,11 @@
 - VAE Synthesizer
 - Sync my bank account transaction information with my budgeting system on google sheets (or something similar)
 - Remake `outline.com`: basically get webpages from news sites from either different IPs or without cookies or whatever (is necessary) to avoid the paywall
+- Gym progression planner and random exercise scheduler (also generally, a task scheduler so I don't have to re-prioritize)
 
 # Stream of Consciousness
 - Poker bot
+- Code obfuscator by credating an isomorphism of variable names to a known lore universe (i.e. star wars)
 - Something to bypass gogoinflight
 - Some sort of community-based life-coaching without needing certified therapists to help people (especially in small businesses or schools where it might be hard to get a service like this) emotional support when they need it (etc)
 - 2E Music Box Classifier, but it actually works
