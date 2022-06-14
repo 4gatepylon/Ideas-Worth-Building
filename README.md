@@ -9,6 +9,7 @@
 
 # Stream of Consciousness
 - Poker bot
+- WFH Work Faker (fake clock in)
 - Code obfuscator by credating an isomorphism of variable names to a known lore universe (i.e. star wars)
 - Something to bypass gogoinflight
 - Some sort of community-based life-coaching without needing certified therapists to help people (especially in small businesses or schools where it might be hard to get a service like this) emotional support when they need it (etc)
